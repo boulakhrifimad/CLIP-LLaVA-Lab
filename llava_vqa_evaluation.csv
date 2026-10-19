@@ -1,0 +1,76 @@
+Image,Question,LLaVA Answer,Human Evaluation
+class_1.jpg,What is the main subject of this image?," The main subject of this image is a large passenger jet, specifically a North American airliner, sitting on the runway.",1
+class_1.jpg,How many people are visible in this image?,1 person is visible in the image.,0
+class_1.jpg,What objects can you identify?,"1. A large passenger jet airplane
+2. A truck
+3. A person
+4. A car
+5. A bus
+6. A tree
+7. A building
+8. A fence
+9. A person on a motorcycle
+10. A person on a bicycle
+11. A person on a skateboard
+12. A person on a horse
+13. A person on a surfboard
+14. A person on a snowboard
+15. A person on a skateboard
+16",0
+class_1.jpg,What is happening in this image?," The image features a large North American airplane parked on the runway at an airport. The airplane is positioned on the tarmac, and there are several cars and trucks around it, likely providing support services or transportation for the aircraft. In addition to the airplane, there are a few people visible in the scene, possibly airport staff or passengers. The presence of multiple vehicles and people suggests that the airplane is either preparing for takeoff or has recently landed, and the airport is bustling with activity.",0
+class_1.jpg,Describe the image in one sentence.,"2 airplanes are on the runway, one is a North American plane.",0
+class_10.jpg,What is the main subject of this image?," The main subject of this image is a close-up of a human brain, specifically focusing on the left side of the brain.",1
+class_10.jpg,How many people are visible in this image?,0,1
+class_10.jpg,What objects can you identify?,"1. A brain
+2. A red line
+3. A white background
+4. A red line on the brain
+5. A white background with a red line on it
+6. A white background with a red line on the brain
+7. A white background with a red line on the brain
+8. A white background with a red line on the brain
+9. A white background with a red line on the brain
+10. A white background with a red line on the brain",1
+class_10.jpg,What is happening in this image?," The image features a close-up of a human brain, with a red line drawn through the center of it. The brain is depicted in a black and white style, which adds a sense of depth and contrast to the image. The red line divides the brain into two distinct sections, creating a visually striking and thought-provoking representation of the organ.",1
+class_10.jpg,Describe the image in one sentence.,3D image of a brain with a red line through it.,1
+class_13.jpg,What is the main subject of this image?,1. A butterfly made out of paper.,1
+class_13.jpg,How many people are visible in this image?,0,1
+class_13.jpg,What objects can you identify?,"1. A butterfly made of paper
+2. A black background
+3. A white butterfly
+4. A green background
+5. A white butterfly on a green background
+6. A white butterfly on a black background
+7. A green butterfly on a black background",1
+class_13.jpg,What is happening in this image?," The image features a close-up of a paper butterfly, which is a creative and artistic representation of a butterfly. The paper butterfly is made from folded paper and is placed on a black background, which highlights its intricate details. The paper butterfly is positioned in the center of the image, capturing the viewer's attention.",1
+class_13.jpg,Describe the image in one sentence.,3D paper butterfly on a black background.,1
+class_15.jpg,What is the main subject of this image?," The main subject of this image is a large cannon or artillery piece, which is placed on a wooden platform or a wooden structure.",1
+class_15.jpg,How many people are visible in this image?,0,1
+class_15.jpg,What objects can you identify?,"1. A large cannon or artillery piece
+2. A fence or gate
+3. A building in the background
+4. Trees in the distance
+5. A truck or vehicle in the foreground
+
+These objects can be identified in the image, which features a large cannon or artillery piece, a fence or gate, a building in the background, trees in the distance, and a truck or vehicle in the foreground.",0
+class_15.jpg,What is happening in this image?," The image features a large, old-fashioned cannon sitting on a wooden platform or a fence. The cannon is positioned on a bridge, and it appears to be a part of a display or an exhibit. The scene is set against a backdrop of trees, giving the impression of a peaceful and historical setting.",1
+class_15.jpg,Describe the image in one sentence.,2 wheels of a cannon are on a wooden platform.,1
+class_26.jpg,What is the main subject of this image?," The main subject of this image is a man who is playfully posing with a large alligator or crocodile, with its mouth open.",1
+class_26.jpg,How many people are visible in this image?,1,1
+class_26.jpg,What objects can you identify?,"1. A man
+2. A crocodile
+3. A blue background
+4. A man's hand
+5. A man's face
+6. A man's head
+7. A man's hair
+8. A man's teeth
+9. A man's smile
+10. A man's shirt
+11. A man's tie
+12. A man's jacket
+13. A man's arm
+14. A man's hand
+15. A man's",1
+class_26.jpg,What is happening in this image?," In the image, a man is playfully posing with a large alligator, which is opening its mouth to reveal its teeth. The man is holding onto the alligator's mouth, creating a fun and lighthearted scene. The alligator appears to be a fake or a prop, as it is not a real alligator. The man is wearing a black shirt, and the scene takes place in a room with a blue background.",1
+class_26.jpg,Describe the image in one sentence.,2 men are standing in front of a large alligator.,0
